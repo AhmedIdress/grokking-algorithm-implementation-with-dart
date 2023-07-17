@@ -7,6 +7,6 @@ This repo is an implementation to grokking algorithm with dart language, because
 
 To go on the implementation you will choose chapter branch from branches button above and will get the chapter algorithms implementation.
 
-## [Chapter 1]([https://link-url-here.org](https://github.com/AhmedIdress/grokking-algorithm-implementation-with-dart/tree/chapter-1)https://github.com/AhmedIdress/grokking-algorithm-implementation-with-dart/tree/chapter-1)
+## [Chapter 1](https://github.com/AhmedIdress/grokking-algorithm-implementation-with-dart/tree/chapter-1)
 
 This chapter talking about binary search tree.
