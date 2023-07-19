@@ -1,5 +1,5 @@
 class BinarySearch<T extends Comparable> {
-  int calculate(List<T> list, T item) {
+  int search(List<T> list, T item) {
     int low = 0; // pointer equal list first index
     int high = list.length - 1; // pointer equal list last index
     // loop on list to get item

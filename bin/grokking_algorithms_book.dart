@@ -72,5 +72,5 @@ void main(List<String> arguments) {
     57,
     58
   ];*/
-  print('index is ${BinarySearch<String>().calculate(binaryList, 'h')}');
+  print('index is ${BinarySearch<String>().search(binaryList, 'h')}');
 }
