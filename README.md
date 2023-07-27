@@ -9,4 +9,4 @@ To go on the implementation you will choose chapter branch from branches button 
 
 ## [Chapter 1](https://github.com/AhmedIdress/grokking-algorithm-implementation-with-dart/tree/chapter-1)
 
-This chapter talking about binary search tree.
+This chapter talking about binary search.
