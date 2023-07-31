@@ -1,6 +1,6 @@
 import 'dart:math';
 
-import 'package:grokking_algorithms_book/chapter_one/selection_sort.dart';
+import 'package:grokking_algorithms_book/chapter_2/selection_sort.dart';
 
 void main(List<String> arguments) {
   //Selection sort test
