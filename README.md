@@ -6,5 +6,5 @@ This repo is an implementation to grokking algorithm with dart language, because
 
 
 
-## Chapter 1
-This chapter talking about binary search tree.
+## Chapter 2
+This chapter talking about Arrays and linked lists as simple data structures, and selection sort algorithm.
