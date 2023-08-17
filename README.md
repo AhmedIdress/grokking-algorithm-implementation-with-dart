@@ -7,4 +7,4 @@ This repo is an implementation to grokking algorithm with dart language, because
 
 
 ## Chapter 2
-This chapter talking about Arrays and linked lists as simple data structures, and selection sort algorithm.
+This chapter talking about Stack as simple data structures, call stack and Recursion algorithm.
