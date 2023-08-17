@@ -1,24 +1,17 @@
-import 'dart:math';
-
-import 'package:grokking_algorithms_book/chapter_2/selection_sort.dart';
+import 'package:grokking_algorithms_book/chapter_3/recursion.dart';
 
 void main(List<String> arguments) {
-  //Selection sort test
-  /*List<String> unOrderedList = [
-    'c',
-    'd',
-    "a",
-    'b',
-    'g',
-    'h',
-    'e',
-    'f',
-  ];*/
-  // Generate random list
-  List<int> unOrderedList =
-      List.generate(100, (index) => Random().nextInt(1000));
-  print('sorted list is '
-      '${SelectionSort<int>().sort(
-    unOrderedList,
-  )}');
+  Recursion recursion = Recursion();
+  //factorial example
+  print('factorial');
+  print(recursion.factorial(5));
+  print(recursion.factorial(10));
+
+  // fibonacci sequence example
+  print('fibonacci');
+  print(recursion.fibonacciSequence(0));
+  print(recursion.fibonacciSequence(1));
+  print(recursion.fibonacciSequence(2));
+  print(recursion.fibonacciSequence(3));
+  print(recursion.fibonacciSequence(4));
 }
