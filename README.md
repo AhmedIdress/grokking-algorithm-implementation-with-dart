@@ -15,3 +15,7 @@ This chapter talking about binary search.
 ## [Chapter 2](https://github.com/AhmedIdress/grokking-algorithm-implementation-with-dart/tree/chapter-2)
 
 This chapter talking about Arrays and linked lists as simple data structures, and selection sort algorithm.
+
+## [Chapter 3](https://github.com/AhmedIdress/grokking-algorithm-implementation-with-dart/tree/chapter-3)
+
+This chapter talking about Stack as simple data structures, Call stack and Recursion algorithm.
