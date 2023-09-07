@@ -20,6 +20,6 @@ This chapter talking about Arrays and linked lists as simple data structures, an
 
 This chapter talking about Stack as simple data structures, Call stack and Recursion algorithm.
 
-## [Chapter 3](https://github.com/AhmedIdress/grokking-algorithm-implementation-with-dart/tree/chapter-4)
+## [Chapter 4](https://github.com/AhmedIdress/grokking-algorithm-implementation-with-dart/tree/chapter-4)
 
 This chapter talking about divide and conquer algorithms, And his applications like quicksort with implementation.
