@@ -6,5 +6,5 @@ This repo is an implementation to grokking algorithm with dart language, because
 
 
 
-## Chapter 2
-This chapter talking about Stack as simple data structures, call stack and Recursion algorithm.
+## Chapter 4
+This chapter talking about divide and conquer algorithms, And his applications like quicksort with implementation.
